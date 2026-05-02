@@ -62,9 +62,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trwfng24&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=trwfng24&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=trwfng24&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=trwfng24&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -123,16 +123,6 @@
 * 🚀 Become a **Backend / Fullstack Developer (Python)**
 * 🧠 Master **system design & scalable architecture**
 * 💼 Contribute to real-world production projects
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/trwfng24/trwfng24/output/snake.svg" />
-
-</div>
 
 ---
 
