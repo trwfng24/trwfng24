@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
 * 🔭 Working on: **Web applications (Django, FastAPI, Vue.js)**
 * 🌱 Improving: **System Design, Backend Architecture**
